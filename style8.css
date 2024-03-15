@@ -1,0 +1,12 @@
+#a1 {
+    border: 2px;
+    border-style: dashed;
+}
+#a2 {
+    border: 2px;
+    border-style: dotted;
+}
+#a3 {
+    border: 2px;
+    border-style: groove;
+}
